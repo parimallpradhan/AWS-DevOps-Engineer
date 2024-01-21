@@ -1,3 +1,10 @@
+
+## Types Of Load Balancer.
+
+
+![typesloadbal](https://github.com/parimallpradhan/AWS-DevOps-Engineer/assets/153976296/217bac54-7982-42a4-bb1f-5ec10fd042e0)
+
+
 ## Difference between Application Load Balancer and Network Load Balancer.
 
 ![Loadbalnew](https://github.com/parimallpradhan/AWS-DevOps-Engineer/assets/153976296/f3d80e1d-9b19-4624-acf9-c40003e04125)
