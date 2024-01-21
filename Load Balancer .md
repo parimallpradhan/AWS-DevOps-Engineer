@@ -1,3 +1,5 @@
+## What is Load Balancer?
+### Load Balancer is used to route the traffic from internet to target group.
 
 ## Types Of Load Balancer.
 
