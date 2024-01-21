@@ -1,5 +1,5 @@
-## What is Load Balancer?
-### Load Balancer is used to route the traffic from internet to target group.
+## What is Elastic Load Balancer?
+Load Balancer is used to route the traffic from internet to target group.Target group is a collection of EC2 instance.
 
 ## Types Of Load Balancer.
 
